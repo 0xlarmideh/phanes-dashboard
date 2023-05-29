@@ -12,7 +12,7 @@
     "chart.js": "^3.9.1",
     "chartjs-plugin-gradient": "^0.5.1",
     "core-js": "^3.25.3",
-    "nuxt": "^2.15.8",
+    "nuxt": "^3.5.2",
     "vue": "^2.7.10",
     "vue-chartjs": "^4.1.1",
     "vue-server-renderer": "^2.7.10",
@@ -22,6 +22,6 @@
   "devDependencies": {
     "sass": "^1.62.1",
     "sass-loader": "10.1.1",
-    "webpack": "^4.45.0"
+    "webpack": "^5.84.1"
   }
 }
